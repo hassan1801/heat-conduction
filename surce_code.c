@@ -60,4 +60,4 @@ main ()
   gsl_vector_free (b);
   
   return 0;
-}
+}s
